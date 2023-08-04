@@ -1,0 +1,12 @@
+# ninja log v5
+3	1140	7123879971290622	CMakeFiles/Kmeans.dir/Calculation.cpp.obj	ae411c996f89a369
+20	679	7122689624439605	CMakeFiles/Kmeans.dir/Point.cpp.obj	50259c5b18c17791
+3	822	7123880139136225	CMakeFiles/Kmeans.dir/main.cpp.obj	6b29aa9a1231e9d3
+1	151	7123894450706103	build.ninja	3fb3237875a0f541
+822	1038	7123880141263907	Kmeans.exe	3b4952eee52d767c
+25	817	7123894789062899	CMakeFiles/Kmeans.dir/Point.cpp.obj	3ec3eeecb143de71
+14	1122	7123894792134905	CMakeFiles/Kmeans.dir/main.cpp.obj	7197ca33d0d9718c
+3	1419	7123894795067391	CMakeFiles/Kmeans.dir/Calculation.cpp.obj	8ce41fd9705ecf6c
+1419	1652	7123894797382176	Kmeans.exe	3b4952eee52d767c
+3	854	7123894954655096	CMakeFiles/Kmeans.dir/main.cpp.obj	7197ca33d0d9718c
+855	1047	7123894956548912	Kmeans.exe	3b4952eee52d767c
